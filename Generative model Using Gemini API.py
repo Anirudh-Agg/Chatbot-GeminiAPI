@@ -1,5 +1,5 @@
 import google.generativeai as genai
-API_KEY="AIzaSyCzKPYIPgksFCUVKxpN3zyDWt7-ru9l6vg"
+API_KEY="" #get an api key from google
 #instantiate the model
 genai.configure(api_key=API_KEY)
 
